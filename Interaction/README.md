@@ -30,8 +30,4 @@
 ![思维导图](思维导图.png)
 
 ### 🔗 数据下载链接索引
-| 数据集名称     | 链接                                                        |
-| :-------- | :-------------------------------------------------------- |
-| 消防栓漏水数据集 | [链接](https://pan.baidu.com/s/1dPGkzL7FhKZhst__9X4qag?pwd=iRIC) |
-| 烟火数据集 | [链接](https://pan.baidu.com/s/1cWoEm08tAnzYArBbtXc22Q?pwd=iRIC) |
-| 地面积水数据集 | [链接](https://pan.baidu.com/s/1UQHzK_25iuXOt160EBnMzw?pwd=iRIC) |
+#### [数据下载](https://pan.baidu.com/s/1rGUYGXq8mrISXVfPFTS0aw?pwd=iRIC)
